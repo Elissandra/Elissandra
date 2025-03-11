@@ -1,9 +1,8 @@
 <!-- Contador de visitas alinhado à direita -->
-<!--
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=(((Elissandra)))&color=ff69b4&style=flat-square" alt="contador de visitas" />
-</p>
--->
+  <img src="https://komarev.com/ghpvc/?username=Elissandra&color=ff69b4&style=flat-square" alt="contador de visitas" />
+</p> 
+
 
 # Olá, eu sou a Elis! ✨🔎🐞
 Tenho paixão por testes e qualidade e sou uma entusiasta da área. Sou profissional Analista de Teste de Software e Quality Assurance, com foco em testes funcionais, não funcionais, unitário, integração, manuais, testes de automação, testes exploratórios, testes de acessbilidade, usabilidade, APIs e performance.
