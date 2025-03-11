@@ -6,7 +6,7 @@
 -->
 
 # Olá, eu sou a Elis! ✨🔎🐞
-Tenho paixão por testes e qualidade e sou uma entusiasta da área. Sou profissional Analista de Teste de Software e Quality Assurance, com foco em testes manuais funcionais, testes exploratórios, testes de automação, testes de acessbilidade e usabilidade.
+Tenho paixão por testes e qualidade e sou uma entusiasta da área. Sou profissional Analista de Teste de Software e Quality Assurance, com foco em testes funcionais, não funcionais, unitário, integração, manuais, testes de automação, testes exploratórios, testes de acessbilidade, usabilidade, APIs e performance.
 
 🙋‍♀️ Pronouns: She/Her
 <br>
