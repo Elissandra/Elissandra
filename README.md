@@ -27,7 +27,13 @@ Tenho paixão por testes e qualidade e sou uma entusiasta da área. Sou profissi
 
 <!-- Badges de redes sociais -->
 <div>
+  <!--
   <a href="https://www.linkedin.com/in/elissandraoliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  -->
+
+  Acesse outros projetos:
+
+  
   <a href="https://gitlab.com/users/oliversouzalis/projects" target="_blank"><img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
   <a href="https://hub.docker.com/r/elissandraoliveira/appium-maven-test" target="_blank"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" target="_blank"></a>
   <a href="https://bitbucket.org/test-bitbucket-888/workspace/repositories/" target="_blank"><img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white" target="_blank"></a>
