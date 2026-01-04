@@ -22,7 +22,6 @@ Tenho paixão por testes e qualidade e sou uma entusiasta da área. Sou profissi
 <img width='50' height='50' src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" />
 <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg" />
 <img width='50' height='50' src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" />
-<img width='50' height='50' src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" />
 
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=java,js,gherkin,playwright)](https://skillicons.dev) -->
