@@ -14,7 +14,7 @@ Tenho paixão por testes e qualidade e sou uma entusiasta da área. Sou profissi
 <div style="display: inline_block"><br>
 
 <!-- Most Used Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elissandra&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elissandra&layout=compact) -->
 
 
 <!-- Imagens ícones ferramentas -->
@@ -22,6 +22,12 @@ Tenho paixão por testes e qualidade e sou uma entusiasta da área. Sou profissi
 <img width='50' height='50' src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" />
 <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg" />
 <img width='50' height='50' src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" />
+<img width='50' height='50' src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" />
+
+
+<!-- [![My Skills](https://skillicons.dev/icons?i=java,js,gherkin,playwright)](https://skillicons.dev) -->
+
+
           
 #
 
@@ -31,7 +37,7 @@ Tenho paixão por testes e qualidade e sou uma entusiasta da área. Sou profissi
   <a href="https://www.linkedin.com/in/elissandraoliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   -->
 
-  Acesse outros projetos:
+  Acesse meus outros projetos:
 
   
   <a href="https://gitlab.com/users/oliversouzalis/projects" target="_blank"><img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
