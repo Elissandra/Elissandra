@@ -1,9 +1,7 @@
 <!-- Contador de visitas alinhado à direita -->
-<!--
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=Elissandra&color=ff69b4&style=flat-square" alt="contador de visitas" />
-</p> 
--->
+</p>
 
 # Olá, eu sou a Elis! ✨🔎🐞
 
@@ -27,6 +25,7 @@ Tenho paixão por testes e qualidade e sou uma entusiasta da área. Sou profissi
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" 
 />
+<!--
 <img 
     align="left" 
     alt="Cypress" 
@@ -35,6 +34,7 @@ Tenho paixão por testes e qualidade e sou uma entusiasta da área. Sou profissi
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" 
 />
+-->
 <img 
     align="left" 
     alt="Selenium" 
